@@ -51,7 +51,7 @@ python -m spacy download en_core_web_sm
 ### 4. Create .env file
 AZURE_OPENAI_API_KEY=your-api-key
 AZURE_OPENAI_ENDPOINT=https://your-resource-name.openai.azure.com/
-AZURE_OPENAI_API_VERSION=2023-07-01-preview
+AZURE_OPENAI_API_VERSION=your-api-version
 AZURE_OPENAI_EMBED_MODEL=your-embedding-deployment-name
 AZURE_OPENAI_CHAT_MODEL=your-gpt-deployment-name
 
